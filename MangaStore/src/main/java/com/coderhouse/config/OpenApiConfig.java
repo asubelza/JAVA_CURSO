@@ -40,7 +40,7 @@ public class OpenApiConfig {
                 .contact(new Contact()
                     .name("Alfonso Waldemar Subelza")
                     .email("subelzaalfonso@gmail.com")
-                    .url("https://github.com/tuusuario"))  // Reemplazá si tenés un GitHub real
+                    .url("https://github.com/asubelza/JAVA_CURSO/tree/main/MangaStore"))  
                 .license(new License()
                     .name("Nombre de la licencia si hubiera")
                     .url("https://url de la licencia si hubiera")))
